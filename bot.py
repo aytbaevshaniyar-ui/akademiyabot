@@ -427,7 +427,7 @@ async def help_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "*Qancha vaqt ketadi?*\n"
         "To'lov tasdiqlanib, 2-5 daqiqada tayyor bo'ladi.\n\n"
         "*Muammo bo'lsa:*\n"
-        "Admin: @SIZNING_USERNAME",  # ← O'zingizning Telegram username yozing
+        "Admin:  1158153777",  # ← O'zingizning Telegram username yozing
         reply_markup=InlineKeyboardMarkup(kb),
         parse_mode="Markdown"
     )
