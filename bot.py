@@ -309,11 +309,11 @@ def callback(call):
             "1️⃣ Ish turini tanlang\n"
             "2️⃣ Mavzuni kiriting\n"
             "3️⃣ Varaq sonini tanlang\n"
-            "4️⃣ Kartaga pul o'tkering\n"
+            "4️⃣ Kartaga pul o'tkazing\n"
             "5️⃣ «To'lov qildim» tugmasini bosing\n"
             "6️⃣ Admin tasdiqlaydi → ish yuboriladi ✅\n\n"
             "*Muammo bo'lsa:*\n"
-            "Admin: @SIZNING_USERNAME",
+            "Admin: 1158153777",
             call.message.chat.id, call.message.message_id,
             reply_markup=back_btn(), parse_mode="Markdown"
         )
