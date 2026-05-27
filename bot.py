@@ -217,7 +217,7 @@ def callback(call):
             f"🏦 Karta: `{PAYMENT_CARD}`\n"
             f"👤 Egasi: *{PAYMENT_NAME}*\n\n"
             f"📋 Buyurtma raqami: *#{order_id}*\n\n"
-            "1️⃣ Kartaga pul o'tkering\n"
+            "1️⃣ Kartaga pul o'tkazing\n"
             "2️⃣ *«To'lov qildim»* tugmasini bosing\n"
             "3️⃣ Admin tasdiqlaydi → ish yuboriladi ✅",
             call.message.chat.id, call.message.message_id,
