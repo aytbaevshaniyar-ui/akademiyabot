@@ -1,0 +1,14 @@
+# Maxfiy ma'lumotlar - HECH QACHON GitHubga yuklanmasin!
+.env
+
+# Bot bazasi
+bot.db
+
+# Python keraksiz fayllar
+__pycache__/
+*.pyc
+*.pyo
+
+# Vaqtinchalik fayllar
+/tmp/
+*.log
