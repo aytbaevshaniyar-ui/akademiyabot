@@ -156,7 +156,7 @@ def generate_work(work_type: str, topic: str, pages: int) -> str:
     }
 
     payload = {
-        "model": "llama3-70b-8192",
+        "model": "llama-3.3-70b-versatile",
         "messages": [
             {
                 "role": "user",
